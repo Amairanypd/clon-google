@@ -5,7 +5,7 @@ Ponirndo en práctica lo aprendido en el bootcamp logré realizar un clon del ex
 ## 1. Intro
 El proyecto fue creado con **HTML Y CSS** se trata del navegador más usado: la interfaz Google.
 * Puedes visitar el sitio en el siguiente enlace
-![Clon de google] (https://www.linuxadictos.com/wp-content/uploads/Google-en-Firefox.png)
+![Clon de google](https://www.linuxadictos.com/wp-content/uploads/Google-en-Firefox.png)
 **Inspirate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend 💪**
 
 #Contenido del proyecto
