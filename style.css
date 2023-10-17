@@ -119,7 +119,7 @@ main .main-input-container input{
 }
 footer{
     background-color: #f2f2f2;
-    width: 100px;
+    width: 100%;
     height: 50px;
     position: absolute;
     font-size: 13px;
